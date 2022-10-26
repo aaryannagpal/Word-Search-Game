@@ -1,2 +1,2 @@
 # Word-Search-Game
-Creating a word search game in Python
+Creating a word search game checker in Python.
