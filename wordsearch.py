@@ -233,4 +233,4 @@ puzzle = ['RUNAROUNDDL', 'EDCITOAHCYV', 'ZYUWSWEDZYA', 'AKOTCONVOYV',
 
 wordlist = ["scalar", "tray", "blew", "sevruc"]
 
-wordsearch(puzzle, wordlist2)
+wordsearch(puzzle, wordlist)
